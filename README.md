@@ -20,7 +20,7 @@ I'm an indie Front-end developer, UI/UX and graphic designer building my version
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/PizzaDox#3699" alt="Dev Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/invalidsoul69"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/invalidsoul69"><img width="32px" alt="Dev.to" title="InvalidSoul69 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
 
 </p>
 
@@ -34,8 +34,6 @@ I'm an indie Front-end developer, UI/UX and graphic designer building my version
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/InvalidSoul69?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/InvalidSoul69?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/InvalidSoul69?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/InvalidSoul69/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/InvalidSoul69-profile-views"/></a>
 </p>
 
 
