@@ -61,3 +61,13 @@ I'm an indie Front-end developer, UI/UX and graphic designer building my version
 ## 📊 Github stats
 👇
 
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvalidSoul69&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=InvalidSoul69&theme=gruvbox&border_radius=4.5) -->
+
+#
