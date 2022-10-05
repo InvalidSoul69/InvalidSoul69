@@ -36,7 +36,6 @@ I'm an indie Front-end developer, UI/UX and graphic designer building my version
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/InvalidSoul69?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-#
 
 ## 🛠️ My favorite Languages and Tools
 
