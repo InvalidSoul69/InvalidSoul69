@@ -48,7 +48,8 @@ I'm an indie Front-end developer, UI/UX and graphic designer building my version
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
+<br/>
+<br/>
 
 
 ## 🔥 Streak stats
@@ -59,7 +60,8 @@ I'm an indie Front-end developer, UI/UX and graphic designer building my version
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="InvalidSoul69's streak" src="https://streak-stats.demolab.com/?user=InvalidSoul69&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-
+<br/>
+<br/>
 
 
 ### 📊 Stats
