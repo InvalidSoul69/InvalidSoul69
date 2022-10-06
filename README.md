@@ -49,7 +49,7 @@ I'm an indie Front-end developer, UI/UX and graphic designer building my version
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
+
 
 ## 🔥 Streak stats
 
@@ -60,7 +60,7 @@ I'm an indie Front-end developer, UI/UX and graphic designer building my version
   </a>
 </p>
 
-#
+
 
 ### 📊 Stats
 
@@ -68,4 +68,4 @@ I'm an indie Front-end developer, UI/UX and graphic designer building my version
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=InvalidSoul69&theme=gruvbox&border_radius=4.5) -->
 
-#
+
