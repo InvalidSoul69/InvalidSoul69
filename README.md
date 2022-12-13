@@ -49,25 +49,9 @@ I'm an indie Front-end developer, UI/UX and graphic designer building my version
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 <br/>
-<br/>
-
-
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/InvalidSoul69/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="InvalidSoul69's streak" src="https://streak-stats.demolab.com/?user=InvalidSoul69&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-<br/>
-<br/>
-
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvalidSoul69&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=InvalidSoul69&theme=gruvbox&border_radius=4.5) -->
+![Sammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvalidSoul69&show_icons=true&theme=gruvbox)
 
 
