@@ -8,13 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Experienced+UI/UX+Designer;+6+years+of+experience;Always+learning+new+things" />
 </h1>
 
-<!-- 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
-</p>
- -->
-
-
 **`Digital Craftsman (Software Engineer / Product Designer/ Creator)`**
 
 I'm an indie Front-end developer/Designer building my own version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All Graphic content is built the same way, from ideation and planning, all the way to finalizing it with artistic touches.
@@ -74,6 +67,9 @@ I'm an indie Front-end developer/Designer building my own version of the digital
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=InvalidSoul69&theme=dark-smoky&hide_border=true&border_radius=12&mode=weekly" alt="GitHub Streak" /></a>
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -82,14 +78,3 @@ I'm an indie Front-end developer/Designer building my own version of the digital
 </div>
 
 <br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
