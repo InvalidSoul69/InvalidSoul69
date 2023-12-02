@@ -36,7 +36,10 @@ I'm an indie Front-end developer/Designer building my own version of the digital
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
    <a href="https://twitter.com/_invalid_soul">
-    <img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=X&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+   <a href="https://discord.gg/PizzaDox#3699">
+    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=Twitter&logoColor=Purple" />
   </a>
 </div>
 <p align="center">
