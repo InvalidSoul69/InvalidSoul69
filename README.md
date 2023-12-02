@@ -1,7 +1,12 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=InvalidSoul69.InvalidSoul69" />
 <h3 align="center">
-  Welcome to Sami's profile🌞
+  Hi There !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h3>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Experienced+UI/UX+Designer;+6+years+of+experience;Always+learning+new+things" />
+</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
