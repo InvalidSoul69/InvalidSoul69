@@ -35,6 +35,9 @@ I'm an indie Front-end developer/Designer building my own version of the digital
   <a href="https://InvalidSoul69.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+   <a href="https://twitter.com/_invalid_soul">
+    <img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
 </div>
 <p align="center">
   <a href="https://twitter.com/_invalid_soul"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
