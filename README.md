@@ -72,7 +72,7 @@ I'm an indie Front-end developer/Designer building my own version of the digital
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=InvalidSoul69&theme=dark-smoky&hide_border=true&border_radius=12&mode=weekly" alt="GitHub Streak" /></a>
   <img width=390 src="https://github-readme-stats.vercel.app/api? username=InvalidSoul69&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=12" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-InvalidSoul69.vercel.app/api/top-langs/?username=InvalidSoul69&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
