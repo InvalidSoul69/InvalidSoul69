@@ -33,7 +33,7 @@ I'm an indie Front-end developer/Designer building my own version of the digital
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://InvalidSoul69.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 <p align="center">
@@ -51,12 +51,13 @@ I'm an indie Front-end developer/Designer building my own version of the digital
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,java" /><br>
 </div>
 
 <br/>
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
   <a href="https://github.com/InvalidSoul69?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/InvalidSoul69?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -64,14 +65,10 @@ I'm an indie Front-end developer/Designer building my own version of the digital
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/InvalidSoul69?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=InvalidSoul69&theme=dark-smoky&hide_border=true&border_radius=12&mode=weekly" alt="GitHub Streak" /></a>
-  <img width=390 src="https://github-readme-stats.vercel.app"/>
-  
 </div>
 
 <br/><br/>
