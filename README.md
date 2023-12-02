@@ -41,18 +41,7 @@ I'm an indie Front-end developer/Designer building my own version of the digital
    <a href="https://discord.gg/PizzaDox#3699">
     <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=Discord&logoColor=Magneta" />
   </a>
-   <a href="https://dev.to/invalidsoul69">
-    <img src="https://img.shields.io/badge/Dev.to-333333?style=for-the-badge&logo=Dev&logoColor=white" />
-  </a>
 </div>
-<p align="center">
-  <a href="https://twitter.com/_invalid_soul"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/PizzaDox#3699" alt="Dev Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/invalidsoul69"><img width="32px" alt="Dev.to" title="InvalidSoul69 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-
-</p>
 
  <hr/>
  
